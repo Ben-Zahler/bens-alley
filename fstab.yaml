@@ -1,7 +1,5 @@
 mountpoints:
-  /:
-    url: https://content.da.live/aemsites/da-block-collection/
-    type: markup
+  /: https://drive.google.com/drive/folders/1uhm-EpBjHCCmJH-65fmk8wf3pEnNwK-4
   /yolo:
     url: https://content.da.live/Ben-Zahler/bens-alley/
     type: markup
